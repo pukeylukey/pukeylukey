@@ -1,5 +1,5 @@
 ---
-title: Luke's Blog
+title: Brighton 
 layout: post
 author: luke.rich
 permalink: /untitled-document/
