@@ -1,5 +1,5 @@
 ---
-title: What I have learnt in IT
+title: What I have taken in from our IT lessons
 layout: post
 author: luke.rich
 permalink: /untitled-document/
