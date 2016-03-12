@@ -32,5 +32,5 @@ A worm: This is self replicating program that penetrates an operating system.
 
 A zombie and a botnet: This is where hackers put spam, malware and all of the other bad things onto computers. 
 
-The most common way malware is transmitted: Hackers use sophisticated techniques to transmit malware but the most common is that the hackers rely heavily on social enginnering.
+The most common way malware is transmitted: Hackers use sophisticated techniques to transmit malware but the most common is that the hackers rely heavily on social engineering.
 
