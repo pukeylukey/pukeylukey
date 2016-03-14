@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: computer stuff
 layout: post
 author: luke.rich
 permalink: /untitled-document/
