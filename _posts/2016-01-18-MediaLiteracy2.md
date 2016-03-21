@@ -2,7 +2,7 @@
 title: What we did today 18.01.2016
 layout: post
 author: luke.rich
-permalink: /untitled-document/
+permalink: /MediaLiteracy2/
 source-id: 1TvuR2ObOphxQpcmGfxN0MYmKb-e0S3ZbGmyAQEA-ZfA
 published: true
 ---
