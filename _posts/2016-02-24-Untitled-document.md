@@ -2,7 +2,7 @@
 title: 24-02-2016
 layout: post
 author: luke.rich
-permalink: /untitled-document/
+permalink: /24.02.2016/
 source-id: 1Dy4OFxSJ5ako9lHZ5G1x0WLHLNQ8WUDVFJWA1UTeCgM
 published: true
 ---
