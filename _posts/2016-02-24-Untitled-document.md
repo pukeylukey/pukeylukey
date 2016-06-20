@@ -1,8 +1,5 @@
 ---
 title: 24-02-2016
-
-
-
 layout: post
 author: luke.rich
 permalink: /untitled-document/
