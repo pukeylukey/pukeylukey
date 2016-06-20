@@ -1,7 +1,8 @@
 ---
-title: 24-02-2016
+title: What I have taken in from our IT lessons
 layout: post
 author: luke.rich
+permalink: /what-i-have-taken-in-from-our-it-lessons/
 source-id: 1Dy4OFxSJ5ako9lHZ5G1x0WLHLNQ8WUDVFJWA1UTeCgM
 published: true
 ---
